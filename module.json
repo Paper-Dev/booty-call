@@ -1,11 +1,11 @@
 {
-	"disableAutoUpdate": false,
-	"name": "booty-call",
-	"author": "Paper",
-	"description": "Teleport to your favorite locations for impropmtu fun.",
-	"options": {
-		"niceName": "Booty Call"
-	},
-	"servers": ["https://raw.githubusercontent.com/Paper-Dev/booty-call/master/"],
-	"supportUrl": "https://github.com/Paper-Dev/booty-call/issues"
+    "disableAutoUpdate": false,
+    "name": "booty-call",
+    "author": "Paper",
+    "description": "Teleport to your favorite locations for impropmtu fun.",
+    "options": {
+        "niceName": "Booty Call"
+    },
+    "servers": ["https://raw.githubusercontent.com/Paper-Dev/booty-call/master/"],
+    "supportUrl": "https://github.com/Paper-Dev/booty-call/issues"
 }

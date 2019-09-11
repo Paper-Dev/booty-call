@@ -1,5 +1,6 @@
 {
-	"files": {
-		"helloworld.txt": "63c86e2c06f2fded97b939e5278e325b8c1eab6cc95c5e365ed9e41b30e239e3"
-	}
+    "files": {
+        "helloworld.txt": "995d462952b37ff30bc1a20b187ed90fc5359bcd55ad17c5a4d0fc6b88ca1153",
+        "module.json": "982d2560bd63293f6f6138b693eb200cf2388143c8766a367f02a4364432c176"
+    }
 }
